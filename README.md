@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... ethical hacking
 - 🌱 I’m currently learning ... python
 - 💞️ I’m looking to collaborate on ...django
-- 📫 How to reach me ...[websiete](https://kellydguide.com/)
+- 📫 How to reach me ...[website](https://jobsfiber.com/)
 
 <!---
 abhi7595/abhi7595 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
